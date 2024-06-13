@@ -1,0 +1,11 @@
+*__pycache__
+.DS_Store
+
+tmp
+bak
+case
+log
+
+cd src/kissat
+./configure 
+make -j4

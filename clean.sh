@@ -1,0 +1,2 @@
+cd log
+rm -rf *
